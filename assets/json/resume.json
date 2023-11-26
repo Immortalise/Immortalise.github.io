@@ -1,61 +1,57 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kaijie Zhu",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "zhukaijie2021@ia.ac.cn",
+
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "KaijieZhu07",
+        "url": "https://twitter.com/KaijieZhu07"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Microsoft Research Asia",
+      "position": "Research Intern",
+      "startDate": "2022-11",
+      "endDate": "Current"    
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "institution": "Institute of Automation, Chinese Academy of Sciences",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2021-09",
+      "endDate": "2024-06"
+    },
+    {
+      "institution": "Huazhong University of Science and Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2017-09",
+      "endDate": "2021-06"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Excellent Graduate Student (Top 5%)",
+      "date": "2021-06",
+      "awarder": "Huazhong University of Science and Technology"    
+    },
+    {
+      "title": "Outstanding Student (Top 5%)",
+      "date": "2019-11",
+      "awarder": "Huazhong University of Science and Technology"   
+    },
+    {
+      "title": "Certified Software Professional Test (Top 1%)",
+      "date": "2019-11",
+      "awarder": "China Computer Federation (CCF)"   
     }
   ],
   "certificates": [],
@@ -63,7 +59,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
