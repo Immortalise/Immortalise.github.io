@@ -17,7 +17,7 @@
       "name": "Microsoft Research Asia",
       "position": "Research Intern",
       "startDate": "2022-11",
-      "endDate": "Current"    
+      "endDate": "Now"    
     }
   ],
   "volunteer": [],
@@ -26,15 +26,15 @@
       "institution": "Institute of Automation, Chinese Academy of Sciences",
       "area": "Computer Science",
       "studyType": "Master",
-      "startDate": "2021-09",
-      "endDate": "2024-06"
+      "startDate": "2021-09-01",
+      "endDate": "2024-06-30"
     },
     {
       "institution": "Huazhong University of Science and Technology",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2017-09",
-      "endDate": "2021-06"
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-30"
     }
   ],
   "awards": [
