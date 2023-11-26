@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other and to feel."
+subtitle: \"To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other and to feel.\"
 
 profile:
   align: right
