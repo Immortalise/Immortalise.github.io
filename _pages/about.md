@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Master student at Institute of Automation, Chinese Academy of Sciences</p>
+    <p>Master student</p>
+    <p>Institute of Automation, Chinese Academy of Sciences</p>
     <p>Beijing, China</p>
 
 news: true  # includes a list of news items
