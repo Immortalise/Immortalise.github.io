@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: Resume_Kaijie_Zhu.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+description: Please refer to the right pdf for the detailed resume.
 toc:
   sidebar: left
 ---
