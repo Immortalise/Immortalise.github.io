@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 profile:
@@ -13,7 +13,6 @@ profile:
     <p>Beijing, China</p>
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -29,3 +28,5 @@ My research interest lies in the development of trustworthy AI systems and evalu
   - Dynamic evaluation for test data contamination issue.
   - New evaluation measurements for generation models.
   - Evaluation benchmarks reflecting diverse real-world scenarios.
+
+Please refer to my [statement of purpose](../assets/pdf/Research_Statement_Kaijie_Zhu.pdf) for details!
