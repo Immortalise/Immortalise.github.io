@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
+subtitle: "To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other and to feel. That is the purpose of life."
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Master student</p>
-    <p>Institute of Automation, Chinese Academy of Sciences</p>
+    <p>zhukaijie2021@ia.ac.cn</p>
     <p>Beijing, China</p>
 
 news: true  # includes a list of news items
