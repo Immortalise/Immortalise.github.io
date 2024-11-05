@@ -11,9 +11,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D
+      institution: University of California, Santa Barbara
+      year: 2024 - 2029 (expected)
     - title: Master
       institution: Institute of Automation, Chinese Academy of Sciences
-      year: 2021 - 2024 (expect)
+      year: 2021 - 2024
     - title: Bachelor
       institution: Huazhong University of Science and Technology
       year: 2017 - 2021
@@ -23,11 +26,11 @@
   contents:
     - title: Research Intern
       institution: Microsoft Research Asia
-      year: 11/2022 - Current
+      year: 11/2022 - 2024/5
       description:
-        - Developed a robust fine-tuning strategy to enhance the generalization ability of adversarially trained models.
+        - Developed a robust fine-tuning strategy (RiFT ICCV'23) to enhance the generalization ability of adversarially trained models.
         - Introduced PromptBench: a benchmark to evaluate the robustness of LLMs on adversarial prompts.
-        - Proposed a graph-informed dynamic evaluation for LLMs in reasoning tasks to mitigate test data contamination.
+        - Proposed a graph-informed dynamic evaluation for LLMs (DyVal ICLR'24, DyVal 2 ICML'24) to mitigate test data contamination.
 
 - title: Open Source Projects
   type: time_table
