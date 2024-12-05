@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a first-year Ph.D student at UCSB, fortunately advised by Prof. [William Wang](https://sites.cs.ucsb.edu/~william/) and Prof. [Wenbo Guo](https://henrygwb.github.io/). Previous, I have spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jd92.wang/) and Prof. [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/). 
+I’m a first-year Ph.D student at UCSB, fortunately advised by Prof. [William Wang](https://sites.cs.ucsb.edu/~william/) and Prof. [Wenbo Guo](https://henrygwb.github.io/). Previous, I have spent time at Microsoft, advised by Prof. [Jindong Wang](https://jd92.wang/) and Prof. [Xing Xie](https://www.microsoft.com/en-us/research/people/xingx/). 
 
 My current research interest lies in the development of trustworthy AI systems and evaluation of foundation models.
 
