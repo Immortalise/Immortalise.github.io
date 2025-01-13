@@ -6,7 +6,7 @@ subtitle: "&quot;To see the world.&quot;"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>kaijiezhu@ucsb.edu</p>
