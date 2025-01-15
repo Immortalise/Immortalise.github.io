@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "&quot;To see the world.&quot;"
+subtitle: "&quot;&quot;"
 
 profile:
   align: right
