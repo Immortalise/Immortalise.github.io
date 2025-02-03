@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-DyVal 2 is accepted by ICML 2024.
+[DyVal 2](https://openreview.net/pdf?id=DwTgy1hXXo) is accepted by ICML 2024.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-DyVal is accepted by ICLR 2024 as a spotlight paper!
+[DyVal](https://openreview.net/pdf?id=gjfOL9z5Xr) is accepted by ICLR 2024 as a spotlight paper.
